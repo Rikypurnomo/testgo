@@ -23,6 +23,22 @@
 /api/user
   ```
 
+# test api
+- clone project
+- ganti .env 
+> File : `.env`
+
+```go
+.env
+DB_USER=
+DB_PASSWORD=
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=testgo
+
+}
+
+
 # Prepare
 
 ### 1. Download
@@ -52,10 +68,6 @@ go mod init _project_name_
 ```bash
 go get -u github.com/gin-gonic/gin
 ```
-
-# test api
-- clone project
-- ganti .env 
 
 contoh
 
