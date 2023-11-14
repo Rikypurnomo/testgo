@@ -1,5 +1,5 @@
 # Api-go
-### user hanya dapat mengakses 
+# user hanya dapat mengakses 
   ```bash
   /api/register
 /api/login
@@ -8,8 +8,8 @@
 /api/products/getbyid
   ```
 
-### untuk login sebagain admin register is_admin:true
-##akses admin
+# untuk login sebagain admin register is_admin:true
+## akses admin
  ```bash
 /api/register
 /api/login
