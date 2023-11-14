@@ -1,4 +1,27 @@
 # Api-go
+### user hanya dapat mengakses 
+  ```bash
+  /api/register
+/api/login
+/api/profile
+/api/products/list
+/api/products/getbyid
+  ```
+
+### untuk login sebagain admin register is_admin:true
+##akses admin
+ ```bash
+/api/register
+/api/login
+/api/profile
+/api/products/list
+/api/products/getbyid
+ /api/products/create
+/api/products/delete
+/api/products/update
+/api/users/list
+/api/user
+  ```
 
 # Prepare
 
