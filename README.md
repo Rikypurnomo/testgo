@@ -76,5 +76,5 @@ func ProductRoutes(g *gin.RouterGroup) {
 ### contoh
 
   ```bash
-  http://localhost:5050/api/v1/products?page=1&limit=5
+  http://localhost:5050/api/products/list?page=1&limit=5
   ```
