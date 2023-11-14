@@ -1,4 +1,4 @@
-# Api-go
+# test-go
 # user hanya dapat mengakses 
   ```bash
   /api/register
