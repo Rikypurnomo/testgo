@@ -53,15 +53,9 @@ go mod init _project_name_
 go get -u github.com/gin-gonic/gin
 ```
 
-# cara pakai api
-
-- pergi ke postman lalu login dengan route yang sesuai
-
-`http://localhost:5050/api/v1/login`
-
-- Kemudian Create Product terlebih dahulu
-
-- pergi ke folder routes 
+# test api
+- clone project
+- ganti .env 
 
 contoh
 
