@@ -57,12 +57,6 @@ DB_NAME=testgo
   go version
   ```
 
-### 3. Initializing project
-
-```bash
-go mod init _project_name_
-```
-
 ### 4. Install Gin
 
 ```bash
